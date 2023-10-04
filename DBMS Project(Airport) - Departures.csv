@@ -1,0 +1,15 @@
+airplane_id,depart_time,depart_delay,destination
+AE001,1020,2 min,mumbai 
+AE002,1100,10 min,indore
+AE003,1412,5 hrs,pune
+AE004,1530,ON TIME,bhopal
+AE005,1214,1 hr,new delhi
+AE006,1312,ON TIME,jaipur
+AE007,1400,30 min,panaji
+AE008,1700,5 min,london
+AE009,1700,ON TIME,new york
+AE010,1600,1 hr,miami
+AE011,1500,ON TIME,paris
+AE012,1923,20 min,amsterdam
+AE013,1548,45 min,dubai
+AE014,1211,ON TIME,budapest
